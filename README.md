@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rayaan.syed@mail.utoronto.ca**
 
-- 📄 Know about my experiences (www.linkedin.com/in/rayaan-syed)
+- 📄 Know about my experiences www.linkedin.com/in/rayaan-syed
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
