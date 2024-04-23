@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Rayaan Syed</h1>
 <h3 align="center">A second-year Statistics student at University of Toronto</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rayaanxsyed&label=Profile%20views&color=0e75b6&style=flat" alt="rayaanxsyed" /> </p>
 
 - 🔭 I’m currently working on [Web Development CS50 by Harvard](https://github.com/rayaanxsyed/Web-Development-CS50)
 
