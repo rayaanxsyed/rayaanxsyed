@@ -4,7 +4,7 @@
 <h3 align="center">A second-year Statistics student at University of Toronto</h3>
 
 
----🔭 I’m currently working on [Web Development CS50 by Harvard](https://github.com/rayaanxsyed/Web-Development-CS50)
+<!---🔭 I’m currently working on [Web Development CS50 by Harvard](https://github.com/rayaanxsyed/Web-Development-CS50) --->
 
 - 🌱 I’m currently learning about **Data Science and Machine Learning**
 
