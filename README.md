@@ -8,11 +8,13 @@
 
 - 🌱 I’m currently learning about **Data Science and Machine Learning**
 
+<h3 align="left">Connect with me:</h3>
+
 - 📫 How to reach me **rayaan.syed@mail.utoronto.ca**
 
 - 📄 Know about my experiences www.linkedin.com/in/rayaan-syed
 
-<h3 align="left">Connect with me:</h3>
+
 
 
 
