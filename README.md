@@ -1,21 +1,25 @@
-<!---<img height="350" width="1000" alt="Toronto" src="https://travel2next.com/wp-content/uploads/toronto-at-night-2.jpg"> ---> 
+<img height="350" width="1000" alt="Toronto" src="https://travel2next.com/wp-content/uploads/toronto-at-night-2.jpg">
 
-<h1 align="center">Hi 👋, I'm Rayaan Syed</h1>
-<h3 align="center">A third-year Statistics student at University of Toronto</h3>
+# Hi 👋, I'm Rayaan Syed
 
+AI & Machine Learning Engineer and fourth-year Honours Statistics student at the University of Toronto. I build secure ML systems, from encrypted AI to LLM-powered search.
 
-<!---🔭 I’m currently working on [Web Development CS50 by Harvard](https://github.com/rayaanxsyed/Web-Development-CS50) --->
+## Experience
+- **01 Quantum Inc.**, AI & Machine Learning Engineer (Jan 2026 – Present): building privacy-preserving ML pipelines that run models on encrypted data using homomorphic encryption.
+- **University of Toronto**, Full-Stack ML Engineer (Jun – Sep 2025): built Magellan, an AI-optimized degree planner used by 1,000+ active ECE students.
+- **Automate Solutions**, Machine Learning Intern (Jan – Apr 2025): built a LangChain and OpenAI document recommendation system with 85%+ retrieval accuracy.
 
-- 🌱 I’m currently learning about **Data Science and Machine Learning**
+## Projects
+- **[News Sentiment Analyzer](https://github.com/rayaanxsyed/News-Sentiment-Analyzer)**: RoBERTa sentiment classification over live news, deployed on AWS with FastAPI and Docker.
+- **[Credit Card Fraud Detection](https://github.com/rayaanxsyed/Credit-Card-Fraud-Detection)**: classifiers on 284K+ transactions, handling class imbalance with SMOTE.
 
-<h3 align="left">Connect with me:</h3>
+## Currently
+- Learning data science and machine learning
+- Expected graduation: April 2027
 
-- 📫 How to reach me **rayaan.syed@mail.utoronto.ca**
+## Tech
+Python, PyTorch, Scikit-learn, Hugging Face, SQL, TypeScript, React, FastAPI, Docker, AWS
 
-- 📄 Know about my experiences www.linkedin.com/in/rayaan-syed
-
-
-
-
-
-
+## Get in touch
+- 📫 rayaan.syed@mail.utoronto.ca
+- 💼 [LinkedIn](https://linkedin.com/in/rayaan-syed)
